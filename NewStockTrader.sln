@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NewStockTrader", "NewStockTrader.pyproj", "{7AE89CA8-45EB-459E-BBF3-5187BBED0631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE89CA8-45EB-459E-BBF3-5187BBED0631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE89CA8-45EB-459E-BBF3-5187BBED0631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561DC075-EF8F-41B5-86DF-8E4B4BADF602}
+	EndGlobalSection
+EndGlobal
